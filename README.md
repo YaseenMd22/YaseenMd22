@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yaseen Mohammad</h1>
 <h3 align="center">Java Full Stack Developer</h3>
 
-img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"![image](https://github.com/YaseenMd22/YaseenMd22/assets/49512000/673b2ce1-0b02-43ae-ba20-deb3236828cd)
+img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"![Uploading image.png…]()
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yaseenmd22&label=Profile%20views&color=0e75b6&style=flat" alt="yaseenmd22" /> </p>
