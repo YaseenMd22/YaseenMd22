@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Yaseen Mohammad</h1>
 <h3 align="center">Software Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yaseenmd22&label=Profile%20views&color=0e75b6&style=flat" alt="yaseenmd22" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=yaseenmd22&label=Profile%20views&color=0e75b6&style=flat" alt="yaseenmd22" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yaseenmd22" alt="yaseenmd22" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yaseenmd22" alt="yaseenmd22" /></a> </p>
 
-- 💬 Ask me about **Designing Scalable Architectures, Optimizing Backend Performance, and Delivering Reliable, Production-grade Software Solutions**
+💬 Ask me about **Designing Scalable Architectures, Optimizing Backend Performance, and Delivering Reliable, Production-grade Software Solutions**
 
-- 📫 How to reach me **yaseenmohammadyas@gmail.com**
+  📫 Reach me on **yaseenmohammadyas@gmail.com**
 
 <h3 align="center">Let's connect</h3>
 <p align="center">
